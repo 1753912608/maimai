@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4c48d227-1965-465b-bd47-fc7d9c8cd960" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maimai/demo/controller/exploreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maimai/demo/controller/exploreController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maimai/demo/controller/userController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maimai/demo/controller/userController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +74,7 @@
       <workItem from="1603078400522" duration="231000" />
       <workItem from="1603089876716" duration="251000" />
       <workItem from="1603091104355" duration="2330000" />
-      <workItem from="1603108653696" duration="303000" />
+      <workItem from="1603108653696" duration="1296000" />
     </task>
     <task id="LOCAL-00001" summary="ll">
       <created>1603078584836</created>
