@@ -3,8 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <title>登录</title>
+    <script src="https://cdn.bootcss.com/vue/2.6.8/vue.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+    <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <style>
+        *{
+            padding:0 0px;
+            margin: 0 0px;
+        }
+        .header{
+            width:100%;
+            height:96px;
+        }
+        .content{
+            background-color:#F2F4F8;
+            height:657px;
+        }
+        .img{
+            width:80px;
+            height:50px;
+        }
+    </style>
 </head>
 <body>
+<div id="app">
+    <div class="header">
+        <ul style="text-decoration:none;">
+            <li style="float:left;margin-left:200px;">
+                <img src="/img/logo.png" alt="" class="img">
+            </li>
+            <li style="float:left;margin-left:50px;">首页</li>
+            <li style="float:left;margin-left:50px;">联系我们</li>
+        </ul>
+    </div>
+    <div class="content">
 
+    </div>
+</div>
 </body>
+<script>
+    new Vue({
+        el: '#app',
+        data:{
+
+        },
+        created(){
+
+        },
+        methods:{
+
+        }
+    })
+</script>
 </html>
